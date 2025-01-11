@@ -15,6 +15,8 @@ This repository tracks my journey through computer science books. It includes bo
 | *Structure and Interpretation of Computer Programs (SICP)* | Harold Abelson, Gerald Jay Sussman | To Read  | Programming Paradigms  | Classic in programming and abstractions.        |
 | *Clean Code*                             | Robert C. Martin           | To Read          | Software Engineering   | Fantastic book on writing maintainable code.    |
 | *Design Patterns: Elements of Reusable Object-Oriented Software* | Erich Gamma et al. | Reading         | Software Design        | Iconic patterns for object-oriented systems.    |
+| *Introduction to Programming Using Java* | David J. Eck | Reading         | Programming Languages        | The JAVA programming language and how computers work at a fundamental level.    |
+| *Dive Into DESIGN PATTERNS* | Alexander Shvets | Reading         | Software Design        | Design Patterns well explained.    |
 
 ## How to Contribute
 
