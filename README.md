@@ -17,6 +17,8 @@ This repository tracks my journey through computer science books. It includes bo
 | *Design Patterns: Elements of Reusable Object-Oriented Software* | Erich Gamma et al. | Reading         | Software Design        | Iconic patterns for object-oriented systems.    |
 | *Introduction to Programming Using Java* | David J. Eck | Reading         | Programming Languages        | The JAVA programming language and how computers work at a fundamental level.    |
 | *Dive Into DESIGN PATTERNS* | Alexander Shvets | Reading         | Software Design        | Design Patterns well explained.    |
+| *Computer Networks: A Systems Approach* | Peterson and Davie | Reading         | Computer Networks        |     |
+
 
 ## How to Contribute
 
