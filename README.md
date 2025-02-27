@@ -18,6 +18,8 @@ This repository tracks my journey through computer science books. It includes bo
 | *Introduction to Programming Using Java* | David J. Eck | Reading         | Programming Languages        | The JAVA programming language and how computers work at a fundamental level.    |
 | *Dive Into DESIGN PATTERNS* | Alexander Shvets | Reading         | Software Design        | Design Patterns well explained.    |
 | *Computer Networks: A Systems Approach* | Peterson and Davie | Reading         | Computer Networks        |     |
+| *The Rust Programming Language* | The Rust Foundation | Reading         | Rust        |     |
+
 
 
 ## How to Contribute
